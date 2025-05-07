@@ -105,8 +105,7 @@ Type curl (paste link)
 # How to insert into a pod (the pod must be running)
 kubectl exec -it "podname" -- sh
 
-# Final output of 2048 game deployment
-![Image](https://github.com/user-attachments/assets/39d19758-a5b0-4cb8-b4cb-57d1b5190b4f)
+
 
 # Process of cleaning up
 kubectl delete svc mygame-svc
